@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Christopher Saburo</title>
+  <title>Yurki Akimoru</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,23 +16,23 @@
   <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
 </head>
 
-<body style="background-color: #172b4d;">
+<body style="background-color: #4a545e;">
 
-  <header class="header" style="background-color: #172b4d; border-top: 0;">
+  <header class="header" style="background-color: #4a545e; border-top: 0;">
     <div class="container clearfix">
       <img class="profile-image img-fluid float-left" src="assets/images/profile.png" width="170px" height="170px"
         style="border-radius: 50%;" />
       <div class="profile-content float-left">
         <h1 class="name" style="color: white;">
-          Christopher Saburo
+          Yuri Akimoru
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Web Frontend &nbsp;&nbsp;SvelteJS | VueJS | Angular | NuxtJS | Sapper | Quasar | Gridsome Developer
+          Web Frontend &nbsp;&nbsp;VueJS | Quasar | NuxtJS | SvelteJS | SvelteKit Developer
         </h2>
         <ul class="social list-inline">
-          <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
+          <li class="list-inline-item"><a href="https://www.linkedin.com/in/yuri-akimoru"><i
                 class="fab fa-linkedin-in"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/chris-saburo/"><i class="fab fa-github-alt"></i></a>
+          <li class="list-inline-item"><a href="https://github.com/yuri-akimoru/"><i class="fab fa-github-alt"></i></a>
           </li>
         </ul>
       </div>
@@ -75,7 +75,7 @@
             <div style="display: flex;">
               <div style="margin-right: 5rem;">
                 <div style="font-size: 1.3rem; font-weight: 400; color: green; margin-top: 1rem;">
-                  $30</div>
+                  $25</div>
                 <div>Hourly rate</div>
               </div>
               <div>
@@ -94,12 +94,12 @@
             <h2 class="heading">Basic Information</h2>
             <div class="content">
               <ul class="list-unstyled">
-                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Oita,
-                  Japan</li>
+                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Sibiu,
+                  Romania</li>
                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                    href="#">christopher.saburo@outlook.com</a></li>
+                    href="#">yuri.akimoru@outlook.com</a></li>
                 <li><i class="fab fa-skype"></i><span class="sr-only">Skype:</span><a
-                    href="#">christopher.saburo@outlook.com</a></li>
+                    href="#">yuri.akimoru@outlook.com</a></li>
               </ul>
             </div>
           </div>
@@ -109,8 +109,8 @@
             <h2 class="heading">Education</h2>
             <div class="content">
               <div class="item">
-                <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Computer Science</h3>
-                <h4 class="university">University of Georgia <span class="year">(2009-2013)</span></h4>
+                <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Information Technology</h3>
+                <h4 class="university">Yokohama National University <span class="year">(2010-2014)</span></h4>
               </div>
             </div>
           </div>
@@ -578,25 +578,19 @@
             <h2 class="heading">Work Experience</h2>
             <div class="content">
               <div class="item">
-                <h3 class="title">Web Frontend Developer | SecureitIT - <span class="year">(2020
-                    - 2021)</span></h3>
-                <p>Developed Company Management Web Service Frontend with VueJS/NuxtJS as a web frontend developer</p>
+                <h3 class="title">Web Developer | Responsive Solutions - <span class="year">(2019 - 2021)</span></h3>
+                <p>
+                  - Web Application Development With Quasar
+                  - Svelte/VueJS Development
+                </p>
               </div>
               <div class="item">
-                <h3 class="title">Web Developer | Vizanda - <span class="year">(2018
-                    - 2019)</span></h3>
-                <p>Features include 90-day workout plans, email reminders, a custom workout routine
-                  builder, a workout page with voice
-                  cues, workout tracking, 60+ exercise pages, and exercise search with faceted
-                  navigation and filtering.</p>
-              </div>
-              <!--//item-->
-              <div class="item">
-                <h3 class="title">Developer | Nomura - <span class="year">(2014 - 2018)</span></h3>
-                <p>Worked on an admin application built with React.js. Responsible for creating a User
-                  Interface that would match the
-                  design I was given, I also had to modify the structure of the App to improve the
-                  User Experience.</p>
+                <h3 class="title">Developer | Yokohama Electronics - <span class="year">(2015 - 2019)</span></h3>
+                <p>
+                  - Developed CRM Projects With VueJS
+                  - Maintenance Of Web Sites
+                  - Initiation Of New Co-Workers
+                </p>
               </div>
             </div>
           </div>
@@ -604,10 +598,10 @@
       </div>
     </div>
   </div>
-  <footer class="footer" style="background-color: #172b4d;">
+  <footer class="footer" style="background-color: #4a545e;">
     <div class=" container text-center">
       <small class="copyright" style="color: white; font-size: 1rem; font-weight: bolder;">
-        Christopher Saburo
+        Yuri Akimoru
       </small>
     </div>
   </footer>
