@@ -39,9 +39,9 @@
     </div>
   </header>
 
-  <div class="container sections-wrapper">
+  <div class="container sections-wrapper" style="padding-top: 20px">
     <div class="row">
-      <div class="primary col-lg-8 col-12">
+      <div class="primary col-12">
         <section class="about section">
           <div class="section-inner" style="background-color: transparent; color: white; padding: 0;">
             <p style="font-size: 20px; font-weight: 100;">
@@ -87,41 +87,43 @@
           </div>
         </section>
       </div>
-      <div class="secondary col-lg-4 col-12">
-        <aside class="info aside section">
-          <div class="section-inner" style="background-color: transparent; color: white; padding-top: 0;">
-            <h2 class="heading">Contact Information</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Sibiu,
-                  Romania</li>
-                <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                    href="#" style="color: white;">yuri.akimoru@outlook.com</a></li>
-                <li><i class="fab fa-skype"></i><span class="sr-only">Skype:</span><a
-                    href="#" style="color: white;">yuri.akimoru@outlook.com</a></li>
-              </ul>
-            </div>
-          </div>
-        </aside>
-        <aside class="education aside section">
-          <div class="section-inner" style="background-color: transparent; color: white;">
-            <h2 class="heading">Education</h2>
-            <div class="content">
-              <div class="item">
-                <h3 class="title" style="font-weight: 100; color: white;"><i class="fas fa-graduation-cap"></i> BSc Information Technology</h3>
-                <h4 class="university" style="font-weight: 100; font-size: 16px; color: white;">Yokohama National University <span class="year" style="font-weight: 100; color: white;">(2010-2014)</span></h4>
-              </div>
-            </div>
-          </div>
-        </aside>
-      </div>
     </div>
     <div class="row" style="margin-top: 30px;">
-      <div class="primary" col-12>
+      <div class="primary col-12">
         <section class="latest section">
           <div class="section-inner" style="background-color: white; color: black;">
-            <h2 class="heading">Latest Projects</h2>
+            <h2 class="heading" style="color: black; font-weight: normal;">
+              Latest Projects
+            </h2>
+
             <div class="content">
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.learna.ac.uk//" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-10.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://www.learna.ac.uk//" target="_blank">
+                      Medical Healthcare Management Educational Lecturing Site
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    VueJS / NuxtJS / FireBase / API Integration / MarkDown
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made Auto-Generated Router Module</li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used Firebase</li>
+                    <li>Added MarkDown Feature</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                    <li>Used Bootstrap-Vue</li>
+                  </p>
+                </div>
+              </div>
 
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://newco.ch/en/" target="_blank">
@@ -172,7 +174,6 @@
                   </p>
                 </div>
               </div>
-
 
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://costcertified.com/" target="_blank">
@@ -336,59 +337,6 @@
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.learna.ac.uk//" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-10.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://www.learna.ac.uk//" target="_blank">
-                      Medical Healthcare Management Educational Lecturing Site
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    VueJS / NuxtJS / FireBase / API Integration / MarkDown
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made Auto-Generated Router Module</li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Firebase</li>
-                    <li>Added MarkDown Feature</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Bootstrap-Vue</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://electrofrenorr.co/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-16.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://electrofrenorr.co/" target="_blank">
-                      Electron Frenorr Company Site
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    SvelteJS / Bootstrap / API Integration
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made FrontEnd side with SvelteJS</li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Bootstrap</li>
-                    <li>Integrated API with Backend</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
                 <a class="col-md-5 col-12" href="https://awv.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-3.png" alt="project name" />
                 </a>
@@ -437,34 +385,6 @@
                     <li>Made FrontEnd side with SvelteJS</li>
                     <li>Integrated SquareSpace CMS with Frontend</li>
                     <li>Used Tailwind CSS</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://thebluedelta.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-11.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://thebluedelta.com/" target="_blank">
-                      Volkswagen Email Corporate Communication CMS Web Site
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    VueJS / TailwindCSS / Component Design / NPM Library Development / 3rd API Integration / MailChimp
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Developed API Supported NPM Development</li>
-                    <li>Used VueX</li>
-                    <li>Developed Initial Components for All Views from scratch </li>
-                    <li>Integrated MailChimp Service</li>
-                    <li>Special Motioning Splash Overlay Effects</li>
-                    <li>Mobile responsive</li>
-                    <li>WCAG2.1</li>
                   </p>
                 </div>
               </div>
@@ -546,23 +466,23 @@
                   </p>
                 </div>
               </div>
-
             </div>
           </div>
         </section>
+
         <section class="experience section">
           <div class="section-inner" style="background-color: white; color: black;">
-            <h2 class="heading">Work Experience</h2>
+            <h2 class="heading" style="color: black; font-weight: normal;">Work Experience</h2>
             <div class="content">
               <div class="item">
-                <h3 class="title">Web Developer | Responsive Solutions - <span class="year">(2019 - 2021)</span></h3>
+                <h3 class="title" style="color: black; font-weight: normal;">Web Developer | Responsive Solutions - <span class="year" style="color: black; font-weight: normal;">(2019 - 2021)</span></h3>
                 <p>
                   - Web Application Development With Quasar
                   - Svelte/VueJS Development
                 </p>
               </div>
               <div class="item">
-                <h3 class="title">Developer | Yokohama Electronics - <span class="year">(2015 - 2019)</span></h3>
+                <h3 class="title" style="color: black; font-weight: normal;">Developer | Yokohama Electronics - <span class="year" style="color: black; font-weight: normal;">(2015 - 2019)</span></h3>
                 <p>
                   - Developed CRM Projects With VueJS
                   - Maintenance Of Web Sites
@@ -575,9 +495,10 @@
       </div>
     </div>
   </div>
+  
   <footer class="footer" style="background-color: #4a545e;">
     <div class=" container text-center">
-      <small class="copyright" style="color: white; font-size: 1rem; font-weight: 100;">
+      <small class="copyright" style="color: white; font-size: 20px;">
         Yuri Akimoru
       </small>
     </div>
