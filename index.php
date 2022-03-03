@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Christpher Saburo Portfolio">
-  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="icon" href="./favicon.png">
   <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
     type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -29,12 +29,6 @@
         <h2 class="desc" style="color: white; font-size: 20px;">
           Web Frontend &nbsp;&nbsp;VueJS | Svelte | Angular Developer
         </h2>
-        <ul class="social list-inline">
-          <li class="list-inline-item"><a href="https://www.linkedin.com/in/yuri-akimoru"><i
-                class="fab fa-linkedin-in"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/yuri-akimoru/"><i class="fab fa-github-alt"></i></a>
-          </li>
-        </ul>
       </div>
     </div>
   </header>
@@ -325,30 +319,6 @@
               </div>
               
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://whitetriangle.agency/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-17.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://whitetriangle.agency/" target="_blank">
-                      White-Triangle Agency Site
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    SvelteJS / SquareSpace CMS / Tailwind CSS
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made FrontEnd side with SvelteJS</li>
-                    <li>Integrated SquareSpace CMS with Frontend</li>
-                    <li>Used Tailwind CSS</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
                 <a class="col-md-5 col-12" href="https://www.auctria.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-5.png" alt="project name" />
                 </a>
@@ -396,32 +366,6 @@
                     <li>Made it Mobile Responsive</li>
                     <li>Architecutred VueX State Management</li>
                     <li>Integrated GraphQL</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.yellowbrick.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-12.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://www.yellowbrick.com/">
-                      Yellow Brick Modern Data Warehouse Hybrid Cloud Service
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    VueJS / GridSome / GraphQL / MarkDown
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch with GridSome</li>
-                    <li>Integrated GraphQL</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used MarkDown</li>
                   </p>
                 </div>
               </div>
