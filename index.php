@@ -27,7 +27,7 @@
           Yuri Akimoru
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Web Frontend &nbsp;&nbsp;VueJS | Quasar | NuxtJS | SvelteJS | SvelteKit Developer
+          Web Frontend &nbsp;&nbsp;VueJS | Svelte | Angular Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/yuri-akimoru"><i
@@ -45,29 +45,31 @@
         <section class="about section">
           <div class="section-inner" style="background-color: transparent; color: white; padding: 0;">
             <p style="font-size: 20px; font-weight: 100;">
-              Experienced senior web frontend developer with a demonstrated history of working in
-              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, angularjs, angular2+, nuxtjs, quasar, gridsome.
+              I've been developing websites and web applications for 5 years.
+              As a software engineer, I've worked for many diverse software projects from scratch for startups.
+              I am experienced with mainly VueJS, NuxtJS, Quasar, SvelteKit frameworks, but I particularly enjoy developing with VueJS.
+              I have always focused on the importance of quality code as well as the need to meet scheduling demands.
             </p>
             <div class="content">
               <p style="font-size: 20px; font-weight: 100;">
-                - <strong style="font-weight: 500;">SvelteJS Frontend Development</strong><br>
-                SvelteJS, SapperJS, ElderJS, Snowpack, Vite, SvelteKit
+                - <strong style="font-weight: 500;">VueJS Frontend Development</strong><br>
+                VueJS, Vue 2/3, NuxtJS, Quasar, Vuex, Pinia, Typescript
               </p>
               <p style="font-size: 20px; font-weight: 100;">
-                - <strong style="font-weight: 500;">VueJS Frontend Development</strong><br>
-                VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
+                - <strong style="font-weight: 500;">SvelteJS Frontend Development</strong><br>
+                SvelteJS, SapperJS, SvelteKit
               </p>
               <p style="font-size: 20px; font-weight: 100;">
                 - <strong style="font-weight: 500;">Angular Frontend Development</strong><br>
-                AngularJS,  Angular v1/v2/v4/v5/v6/v7, AngularDart, Ngrx
+                AngularJS,  Angular 7, Angular 10, Ngrx
               </p>
               <p style="font-size: 20px; font-weight: 100;">
                 - <strong style="font-weight: 500;">UI Frameworks/Libraries</strong><br>
-                BootStrap, Semantic UI, Material UI, Bulma, Foundation, Materialize
+                BootStrap, Vuetify, Tailwind, Bulma
               </p>
               <p style="font-size: 20px; font-weight: 100;">
                 - <strong style="font-weight: 500;">CMSs</strong><br>
-                Contentful, Netlify, ExpressionEngine, Prismic, GraphCMS, Cosmic, Joomla
+                Contentful, Strapi, Storyblok,SquareSpace
               </p>
             </div>
           </div>
@@ -84,6 +86,31 @@
             </h2>
 
             <div class="content">
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://frizwoods.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-20.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://frizwoods.com/" target="_blank">
+                      Attorneys & Lawyers Consultation Site
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    Sveltekit / API Integration / WCAG 2.1
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made Website Mobile Responsive</li>
+                    <li>Made Website WCAG Standard</li>
+                  </p>
+                </div>
+              </div>
+
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://www.learna.ac.uk//" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-10.png" alt="project name" />
@@ -212,61 +239,6 @@
                     <li>Used Docker</li>
                     <li>Integrated 3rd Party API</li>
                     <li>Used Tailwind CSS</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://www.realtimereviews.com/">
-                      Real Time Review Application
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    React / NodeJS / Firebase / MongoDB / WebRTC / MailChimp
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Redux-Saga</li>
-                    <li>Used Firebase</li>
-                    <li>Integrated WebRTC Process Module</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Ant-Design</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://centrifuge.io/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-6.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://centrifuge.io/">
-                      Tinlake Centrifuge - Asset backed lending protocol
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    React / Gatsby / GraphQL / Contentful CMS
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used GraphQL</li>
-                    <li>Used MarkDown</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Contentful CMS</li>
                   </p>
                 </div>
               </div>
