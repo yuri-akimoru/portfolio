@@ -70,24 +70,11 @@
                 Contentful, Netlify, ExpressionEngine, Prismic, GraphCMS, Cosmic, Joomla
               </p>
             </div>
-            <hr>
-            <div style="display: flex;">
-              <div style="margin-right: 5rem;">
-                <div style="font-size: 1.3rem; font-weight: 400; color: white; margin-top: 1rem;">
-                  $25</div>
-                <div>Hourly rate</div>
-              </div>
-              <div>
-                <div style="font-size: 1.3rem; font-weight: 400; color: white; margin-top: 1rem;">
-                  +40 Hours</div>
-                <div>Availability</div>
-              </div>
-            </div>
-            <!--//content-->
           </div>
         </section>
       </div>
     </div>
+
     <div class="row" style="margin-top: 30px;">
       <div class="primary col-12">
         <section class="latest section">
