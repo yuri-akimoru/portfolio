@@ -42,44 +42,43 @@
   <div class="container sections-wrapper">
     <div class="row">
       <div class="primary col-lg-8 col-12">
-        <section class="about section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
-            <h2 class="heading">About Me</h2>
-            <p style="font-size: 1.2rem;">
+        <section class="about section">
+          <div class="section-inner" style="background-color: transparent; color: white; padding: 0;">
+            <p style="font-size: 20px; font-weight: 100;">
               Experienced senior web frontend developer with a demonstrated history of working in
               marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, angularjs, angular2+, nuxtjs, quasar, gridsome.
             </p>
             <div class="content">
-              <p>
-                - <strong>SvelteJS Frontend Development</strong><br>
+              <p style="font-size: 20px; font-weight: 100;">
+                - <strong style="font-weight: 500;">SvelteJS Frontend Development</strong><br>
                 SvelteJS, SapperJS, ElderJS, Snowpack, Vite, SvelteKit
               </p>
-              <p>
-                - <strong>VueJS Frontend Development</strong><br>
+              <p style="font-size: 20px; font-weight: 100;">
+                - <strong style="font-weight: 500;">VueJS Frontend Development</strong><br>
                 VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
               </p>
-              <p>
-                - <strong>Angular Frontend Development</strong><br>
+              <p style="font-size: 20px; font-weight: 100;">
+                - <strong style="font-weight: 500;">Angular Frontend Development</strong><br>
                 AngularJS,  Angular v1/v2/v4/v5/v6/v7, AngularDart, Ngrx
               </p>
-              <p>
-                - <strong>UI Frameworks/Libraries</strong><br>
+              <p style="font-size: 20px; font-weight: 100;">
+                - <strong style="font-weight: 500;">UI Frameworks/Libraries</strong><br>
                 BootStrap, Semantic UI, Material UI, Bulma, Foundation, Materialize
               </p>
-              <p>
-                - <strong>CMSs</strong><br>
+              <p style="font-size: 20px; font-weight: 100;">
+                - <strong style="font-weight: 500;">CMSs</strong><br>
                 Contentful, Netlify, ExpressionEngine, Prismic, GraphCMS, Cosmic, Joomla
               </p>
             </div>
             <hr>
             <div style="display: flex;">
               <div style="margin-right: 5rem;">
-                <div style="font-size: 1.3rem; font-weight: 400; color: green; margin-top: 1rem;">
+                <div style="font-size: 1.3rem; font-weight: 400; color: white; margin-top: 1rem;">
                   $25</div>
                 <div>Hourly rate</div>
               </div>
               <div>
-                <div style="font-size: 1.3rem; font-weight: 400; color: green; margin-top: 1rem;">
+                <div style="font-size: 1.3rem; font-weight: 400; color: white; margin-top: 1rem;">
                   +40 Hours</div>
                 <div>Availability</div>
               </div>
@@ -89,60 +88,38 @@
         </section>
       </div>
       <div class="secondary col-lg-4 col-12">
-        <aside class="info aside section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
-            <h2 class="heading">Basic Information</h2>
+        <aside class="info aside section">
+          <div class="section-inner" style="background-color: transparent; color: white; padding-top: 0;">
+            <h2 class="heading">Contact Information</h2>
             <div class="content">
               <ul class="list-unstyled">
                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Sibiu,
                   Romania</li>
                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                    href="#">yuri.akimoru@outlook.com</a></li>
+                    href="#" style="color: white;">yuri.akimoru@outlook.com</a></li>
                 <li><i class="fab fa-skype"></i><span class="sr-only">Skype:</span><a
-                    href="#">yuri.akimoru@outlook.com</a></li>
+                    href="#" style="color: white;">yuri.akimoru@outlook.com</a></li>
               </ul>
             </div>
           </div>
         </aside>
-        <aside class="education aside section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
+        <aside class="education aside section">
+          <div class="section-inner" style="background-color: transparent; color: white;">
             <h2 class="heading">Education</h2>
             <div class="content">
               <div class="item">
-                <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Information Technology</h3>
-                <h4 class="university">Yokohama National University <span class="year">(2010-2014)</span></h4>
+                <h3 class="title" style="font-weight: 100; color: white;"><i class="fas fa-graduation-cap"></i> BSc Information Technology</h3>
+                <h4 class="university" style="font-weight: 100; font-size: 16px; color: white;">Yokohama National University <span class="year" style="font-weight: 100; color: white;">(2010-2014)</span></h4>
               </div>
-            </div>
-          </div>
-        </aside>
-        <aside class="languages aside section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
-            <h2 class="heading">Languages</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li class="item">
-                  <span class="title"><strong>Japanese:</strong></span>
-                  <span class="level">Native Speaker <br class="visible-xs" /><i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i> </span>
-                </li>
-                <!--//item-->
-                <li class="item">
-                  <span class="title"><strong>English:</strong></span>
-                  <span class="level">Professional Proficiency <br class="visible-sm visible-xs" /><i
-                      class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i> <i class="fas fa-star-half"></i></span>
-                </li>
-              </ul>
             </div>
           </div>
         </aside>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="margin-top: 30px;">
       <div class="primary" col-12>
-        <section class="latest section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
+        <section class="latest section">
+          <div class="section-inner" style="background-color: white; color: black;">
             <h2 class="heading">Latest Projects</h2>
             <div class="content">
 
@@ -573,8 +550,8 @@
             </div>
           </div>
         </section>
-        <section class="experience section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
+        <section class="experience section">
+          <div class="section-inner" style="background-color: white; color: black;">
             <h2 class="heading">Work Experience</h2>
             <div class="content">
               <div class="item">
@@ -600,7 +577,7 @@
   </div>
   <footer class="footer" style="background-color: #4a545e;">
     <div class=" container text-center">
-      <small class="copyright" style="color: white; font-size: 1rem; font-weight: bolder;">
+      <small class="copyright" style="color: white; font-size: 1rem; font-weight: 100;">
         Yuri Akimoru
       </small>
     </div>
